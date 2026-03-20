@@ -1,6 +1,6 @@
 <div align= "center">
     <a href="https://capsule-render.vercel.app/api?type=transparent#gh-light-mode-only">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=Yeonho's%20Github&animation=&fontColor=4d6189&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=Junyoung's%20Github&animation=&fontColor=4d6189&fontSize=60" />
 </div>
 
 <div align= "center">
