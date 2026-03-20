@@ -5,7 +5,7 @@
 
 <div align= "center">
     <a href="https://capsule-render.vercel.app/api?type=transparent#gh-dark-mode-only">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=Yeonho's%20Github&animation=&fontColor=b1c6e7&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=Junyoung's%20Github&animation=&fontColor=b1c6e7&fontSize=60" />
 </div>
     
 
@@ -39,18 +39,18 @@
 <div align="center">
   <div className="flex items-center" >
 
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318#gh-light-mode-only">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=DFE3EB&title_color=799CBD&text_color=2C323F&icon_color=4D5764"
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=junilyy#gh-light-mode-only">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=junilyy&show_icons=true&bg_color=DFE3EB&title_color=799CBD&text_color=2C323F&icon_color=4D5764"
     width="45%"
   />
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318#gh-dark-mode-only">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318&show_icons=true&theme=nord"
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=junilyy#gh-dark-mode-only">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=junilyy&show_icons=true&theme=nord"
     width="45%"
   />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dldusgh318&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=junilyy&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/dldusgh318"
+  src="https://render.gitanimals.org/farms/junilyy"
   width="45%"/>
 </a>
 </div>
